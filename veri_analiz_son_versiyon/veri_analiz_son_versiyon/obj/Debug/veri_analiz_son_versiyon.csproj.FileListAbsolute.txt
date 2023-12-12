@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\veri_analiz_son_versiyon\veri_analiz_son_versiyon\bin\Debug\veri_analiz_son_versiyon.exe.config
+C:\Users\Lenovo\Desktop\veri_analiz_son_versiyon\veri_analiz_son_versiyon\bin\Debug\veri_analiz_son_versiyon.exe
+C:\Users\Lenovo\Desktop\veri_analiz_son_versiyon\veri_analiz_son_versiyon\bin\Debug\veri_analiz_son_versiyon.pdb
+C:\Users\Lenovo\Desktop\veri_analiz_son_versiyon\veri_analiz_son_versiyon\obj\Debug\veri_analiz_son_versiyon.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\veri_analiz_son_versiyon\veri_analiz_son_versiyon\obj\Debug\veri_analiz_son_versiyon.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\veri_analiz_son_versiyon\veri_analiz_son_versiyon\obj\Debug\veri_analiz_son_versiyon.exe
+C:\Users\Lenovo\Desktop\veri_analiz_son_versiyon\veri_analiz_son_versiyon\obj\Debug\veri_analiz_son_versiyon.pdb
+C:\Users\Lenovo\Desktop\staj projeleri\veri_analiz_son_versiyon\veri_analiz_son_versiyon\obj\Debug\veri_analiz_son_versiyon.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\staj projeleri\veri_analiz_son_versiyon\veri_analiz_son_versiyon\obj\Debug\veri_analiz_son_versiyon.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\staj projeleri\veri_analiz_son_versiyon\veri_analiz_son_versiyon\obj\Debug\veri_analiz_son_versiyon.exe
+C:\Users\Lenovo\Desktop\staj projeleri\veri_analiz_son_versiyon\veri_analiz_son_versiyon\obj\Debug\veri_analiz_son_versiyon.pdb
+C:\Users\Lenovo\Desktop\staj projeleri\veri_analiz_son_versiyon\veri_analiz_son_versiyon\bin\Debug\veri_analiz_son_versiyon.exe.config
+C:\Users\Lenovo\Desktop\staj projeleri\veri_analiz_son_versiyon\veri_analiz_son_versiyon\bin\Debug\veri_analiz_son_versiyon.exe
+C:\Users\Lenovo\Desktop\staj projeleri\veri_analiz_son_versiyon\veri_analiz_son_versiyon\bin\Debug\veri_analiz_son_versiyon.pdb
